@@ -1,2 +1,2 @@
 # javascript
-Documentation for my JavaScript learning journey.
+Documentation of my JavaScript learning journey.
